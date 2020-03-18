@@ -1,0 +1,25 @@
+
+table {
+	width: 100%;
+	border: 3px black;
+	border-collapse: collapse;
+}
+ body {
+	font-family: Helvetica;
+	text-align: center;
+	color: black;
+}
+th {
+	border: 1px solid black;
+	height: 25px;
+	
+}
+img {
+	height: 250px;
+	width: 250px;
+}
+
+td {
+	border: 1px solid black;
+	padding: 3px;
+}
